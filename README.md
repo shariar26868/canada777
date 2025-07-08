@@ -32,3 +32,22 @@ canada777/
 │       ├── fraud_model.pkl
 │       ├── ltv_model.pkl
 │       └── segmentation_model.pkl
+
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/canada777.git
+cd canada777
+
+
+# Create virtual environment
+python -m venv venv
+
+# Activate virtual environment
+# On Windows
+venv\Scripts\activate
+# On macOS/Linux
+source venv/bin/activate
