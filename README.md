@@ -51,6 +51,5 @@ python -m venv venv
 venv\Scripts\activate
 # On macOS/Linux
 source venv/bin/activate
-#python scripts/train_models.py = for model run 
 #python -m uvicorn app.main:app --reload --host 0.0.0.0 --port 8000 = for backend run
 
